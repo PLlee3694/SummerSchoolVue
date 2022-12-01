@@ -1,0 +1,30 @@
+{
+  "id": "3613813",
+  "name": "1",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "11488209",
+      "name": "vip",
+      "font_class": "vip",
+      "unicode": "e773",
+      "unicode_decimal": 59251
+    },
+    {
+      "icon_id": "631375",
+      "name": "火",
+      "font_class": "huo",
+      "unicode": "e66c",
+      "unicode_decimal": 58988
+    },
+    {
+      "icon_id": "22227220",
+      "name": "燃脂",
+      "font_class": "daochu1024-07",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    }
+  ]
+}
